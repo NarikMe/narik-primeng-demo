@@ -18,7 +18,7 @@ module.exports = function(config) {
     coverageIstanbulReporter: {
       dir: require("path").join(
         __dirname,
-        "../coverage/narik-ng-bootstrap-starter"
+        "../coverage/narik-primeng-starter"
       ),
       reports: ["html", "lcovonly", "text-summary"],
       fixWebpackSourcePaths: true

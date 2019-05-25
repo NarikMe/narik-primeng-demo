@@ -1,4 +1,4 @@
-# narik-ng-bootstrap-demo
+# narik-primeng-demo
 
 A demo for [**Narik**](http://narik.me "Narik Angular Framework") with [PrimeNG](https://www.primefaces.org/primeng)
 

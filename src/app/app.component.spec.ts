@@ -20,16 +20,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'narik-ng-bootstrap-starter'`, () => {
+  it(`should have as title 'narik-primeng-starter'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('narik-ng-bootstrap-starter');
+    expect(app.title).toEqual('narik-primeng-starter');
   });
 
   it('should render title in a h1 tag', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.querySelector('h1').textContent).toContain('Welcome to narik-ng-bootstrap-starter!');
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to narik-primeng-starter!');
   });
 });
