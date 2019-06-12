@@ -4,7 +4,6 @@ import { Component, Injector } from "@angular/core";
 
 import { NarikUiDetailForm } from "narik-ui-primeng";
 
-// @NarikDetailUi()
 @NarikBaseTemplate("NarikDetailUi")
 @Component({
   templateUrl: "general-detail.component.html"
