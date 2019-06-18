@@ -785,7 +785,7 @@
     "menuItems": [
       {
         "title": "userAccount_-_role",
-
+        "icon":"people-outline",
         "link": "/pages/ui-features",
         "children": [
           {
@@ -808,7 +808,7 @@
       },
       {
         "title": "individual",
-
+        "icon":"menu-outline",
         "link": "/pages/ui-features",
         "children": [
           {
@@ -823,7 +823,7 @@
       },
       {
         "title": "branch",
-
+        "icon":"menu-outline",
         "link": "/pages/ui-features",
         "children": [
           {
@@ -839,7 +839,7 @@
 
       {
         "title": "business",
-
+        "icon":"menu-outline",
         "link": "/pages/ui-features",
         "children": [
           {
@@ -855,7 +855,7 @@
 
       {
         "title": "customer",
-
+        "icon":"menu-outline",
         "link": "/pages/ui-features",
         "children": [
           {
@@ -871,7 +871,7 @@
 
       {
         "title": "department",
-
+        "icon":"menu-outline",
         "link": "/pages/ui-features",
         "children": [
           {
@@ -887,7 +887,7 @@
 
       {
         "title": "employee",
-
+        "icon":"menu-outline",
         "link": "/pages/ui-features",
         "children": [
           {
@@ -903,7 +903,7 @@
 
       {
         "title": "officer",
-
+        "icon":"menu-outline",
         "link": "/pages/ui-features",
         "children": [
           {
@@ -918,7 +918,7 @@
       },
       {
         "title": "productType",
-
+        "icon":"menu-outline",
         "link": "/pages/ui-features",
         "children": [
           {
@@ -933,7 +933,7 @@
       },
       {
         "title": "product",
-
+        "icon":"menu-outline",
         "link": "/pages/ui-features",
         "children": [
           {
@@ -948,7 +948,7 @@
       },
       {
         "title": "account",
-
+        "icon":"menu-outline",
         "link": "/pages/ui-features",
         "children": [
           {
@@ -963,7 +963,7 @@
       },
       {
         "title": "accTransaction",
-
+        "icon":"menu-outline",
         "link": "/pages/ui-features",
         "children": [
           {
