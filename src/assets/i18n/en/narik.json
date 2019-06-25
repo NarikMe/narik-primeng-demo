@@ -8,7 +8,7 @@
     "invalid_role":"Invalid user role"
   },
   "info": {
-    "submit-succeed": "The information is saved",
+    "submit-succeed": "The information was saved",
     "delete-confirm": "Are you sure you want to delete?",
     "confirm": "Confirm"
   },
