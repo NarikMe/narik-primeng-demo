@@ -26,7 +26,14 @@
   "button": {
     "key": "button",
     "value": {
-      "cssClass": "ui-button-info"
+      "cssClass": "ui-button-info",
+      "appendShortcutToTooltip": false
+    }
+  },
+  "toolbar": {
+    "key": "toolbar",
+    "value": {
+      "appendShortcutToTooltip": true
     }
   }
 }

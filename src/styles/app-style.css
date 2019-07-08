@@ -5,7 +5,9 @@ nb-layout-header.fixed {
 [dir=rtl]  .layout-container nb-sidebar.left {
   order: initial !important;
 }
-
+.nb-theme-default .cdk-overlay-container {
+   z-index: 1000 !important;
+}
 #toast-container>div {
   opacity: 1;
 }

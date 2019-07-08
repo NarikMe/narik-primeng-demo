@@ -11,7 +11,8 @@
       "$$uiDefaults.select",
       "$$uiDefaults.data-table",
       "$$uiDefaults.data-table-select",
-      "$$uiDefaults.button"
+      "$$uiDefaults.button",
+      "$$uiDefaults.toolbar"
     ],
     "entities": [
       {
