@@ -36,6 +36,8 @@
     "roboto-fontface": "^0.10.0",
     "typeface-exo": "0.0.61",
     "ng2-validation": "^4.2.0",
+    "class-validator": "^0.9.1",
+    "data-adapter": "^0.2.3",
     "narik-app-core": "^2.0.5",
     "narik-client-storage": "^2.0.0",
     "narik-common": "^2.0.6",
