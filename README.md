@@ -2,6 +2,8 @@
 
 A demo for [**Narik**](http://narik.me "Narik Angular Framework") with [PrimeNG](https://www.primefaces.org/primeng)
 
+[Online Demo](http://narik.me/demo/app-primeng)
+
 ## Running the demo
 
 First of all copy repo to local machine .
