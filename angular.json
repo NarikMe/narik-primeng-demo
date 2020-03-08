@@ -29,6 +29,7 @@
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
+            "aot": true,
             "tsConfig": "tsconfig.app.json",
             "assets": ["src/favicon.ico", "src/assets"],
             "styles": [
@@ -40,7 +41,7 @@
               "node_modules/primeng/resources/themes/nova-light/theme.css",
               "node_modules/primeng/resources/primeng.min.css",
               "node_modules/primeicons/primeicons.css",
-              "node_modules/narik-ui-primeng/styles/narik-ui-prime.css",
+              "node_modules/@narik/ui-primeng/styles/narik-ui-prime.css",
               "src/styles/styles.scss"
             ],
             "stylePreprocessorOptions": {

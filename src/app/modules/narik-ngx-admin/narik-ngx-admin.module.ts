@@ -1,4 +1,4 @@
-import { NarikPrimeTabOutletModule } from "narik-ui-primeng";
+import { NarikPrimeTabOutletModule } from "@narik/ui-primeng";
 
 import { CommonModule } from "@angular/common";
 import { NgModule } from "@angular/core";

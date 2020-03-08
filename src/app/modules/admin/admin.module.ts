@@ -7,8 +7,8 @@ import {
   FormViewRoute,
   NarikAppCoreModule,
   ModuleLoadCompletelyGuard
-} from "narik-app-core";
-import { NarikUiPrimeModule } from "narik-ui-primeng";
+} from "@narik/app-core";
+import { NarikUiPrimeModule } from "@narik/ui-primeng";
 import { CommonModule } from "@angular/common";
 import { ShareModule } from "../share/share.module";
 import { FormsModule } from "@angular/forms";
@@ -19,8 +19,8 @@ import {
   ModuleInfo,
   AuthenticationService,
   DialogService
-} from "narik-infrastructure";
-import { NarikModule } from "narik-core";
+} from "@narik/infrastructure";
+import { NarikModule } from "@narik/core";
 import { Observable } from "rxjs/internal/Observable";
 import { NbMenuService } from "@nebular/theme";
 import { filter } from "rxjs/internal/operators/filter";
